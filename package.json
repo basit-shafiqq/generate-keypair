@@ -1,0 +1,19 @@
+{
+  "name": "generate-keypair",
+  "version": "1.0.0",
+  "description": "",
+  "type":"commonjs",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana-developers/helpers": "^2.5.0",
+    "@solana/web3.js": "^1.95.3",
+    "esrun": "^3.2.26",
+    "typescript": "^5.5.4"
+  }
+}
